@@ -1,0 +1,2 @@
+# ottoAvatar
+my avatar hubot
