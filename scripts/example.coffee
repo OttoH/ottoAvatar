@@ -104,3 +104,8 @@ module.exports = (robot) ->
   # robot.respond /sleep it off/i, (res) ->
   #   robot.brain.set 'totalSodas', 0
   #   res.reply 'zzzzz'
+  
+  # Description: logging unhandled conversation
+  #
+  robot.catchAll (msg) -> 
+    msg.send "I don't know how to react to: #{msg.message.text}"
