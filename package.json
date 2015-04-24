@@ -21,7 +21,6 @@
     "hubot-trello": "^0.1.1",
     "hubot-twitter": "^2.1.1",
     "hubot-youtube": "^0.1.2",
-    "node-trello": "^1.1.1",
     "soupselect": "^0.2.0"
   },
   "engines": {
