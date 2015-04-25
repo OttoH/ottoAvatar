@@ -107,5 +107,5 @@ module.exports = (robot) ->
   
   # Description: logging unhandled conversation
   #
-  robot.catchAll (msg) -> 
-    msg.reply "I don't know how to react to: !{msg.message.text}"
+  #robot.catchAll (msg) -> 
+  #  msg.reply "I don't know how to react to: !{msg.message.text}"
