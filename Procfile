@@ -1,1 +1,1 @@
-web: bin/hubot -a twitter --name "otto"
+web: bin/hubot -a twitter --name "@jarvis"
