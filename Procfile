@@ -1,1 +1,1 @@
-web: bin/hubot -a twitterdm --name "jarviss"
+web: bin/hubot -a twitter-dm --name "jarviss"
